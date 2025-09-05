@@ -1,0 +1,23 @@
+body{
+    background-color: #FDF3FC;
+}
+#navbarNav a{
+    margin: 2px 5px;
+    padding: 5px 10px;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color:#423F8D;
+}
+#navbarNav a:hover{
+    color: #FF7400;
+    border-bottom: 2px solid #FF7400;
+}
+button{
+    margin: 2px 5px;
+    padding: 13px 35px;
+    font-size: 17px;
+    color: #ffffff;
+    background-color: #FF7400;
+}

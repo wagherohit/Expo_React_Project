@@ -1,0 +1,41 @@
+#Talk{
+    background-image: url('logo/aboutback.jpeg');
+    
+}
+.talk-card{
+    padding: 50px 0px;
+    
+}
+
+.talk-card h2{
+    font-family: "Josefin Sans", sans-serif;
+font-size: 44px;
+font-weight: 700;
+line-height: 66px;
+color: rgb(255, 255, 255);
+margin: 0px 0px 10px;
+}
+.talk-card p{
+    font-family: Roboto, sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 25.2px;
+color: rgb(255, 255, 255);
+}
+.talk-card button{
+    font-family: Roboto, sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+color: rgb(255, 255, 255);
+padding: 20px 30px;
+}
+
+.talk-card button:hover{
+    background-color: orangered;
+    border: none;
+    color: #fff;
+}
+
+
+

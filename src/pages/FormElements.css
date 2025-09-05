@@ -1,0 +1,46 @@
+.container {
+  font-family: 'Poppins', sans-serif;
+  padding: 20px;
+}
+
+.form-layout {
+  display: flex;
+  gap: 40px;
+}
+
+.form-left,
+.form-right {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1;
+}
+
+input[type='text'],
+input[type='email'],
+textarea,
+select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f9f8ff;
+  font-size: 14px;
+}
+
+textarea {
+  resize: vertical;
+}
+
+label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  background-color: #f9f8ff;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+h2, h3 {
+  color: #3b2c85;
+}

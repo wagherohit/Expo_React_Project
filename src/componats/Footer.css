@@ -1,0 +1,77 @@
+.footer-section p{
+    font-family: Roboto, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 28.8px;
+color: rgb(121, 119, 162);
+margin: 0px 0px 21px;
+}
+.footer-section img{
+    margin: 0px 0px 35px;
+}
+
+.footer-section i{
+    font-size: 16px;
+    background-color: orangered;
+    color: #fff;
+    padding: 5px;
+}
+.navigation h5{
+    font-family: Roboto, sans-serif;
+font-size: 17px;
+font-weight: 700;
+line-height: 20.4px;
+color: rgb(66, 63, 141);
+}
+.navigation li{
+    margin: 0px 0px 15px;
+    
+}
+.navigation a{
+    font-family: Roboto, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 28.8px;
+color: rgb(121, 119, 162);
+}
+
+.navigation a:hover{
+    color: orangered;
+    border-bottom: 1px solid orangered;
+}
+
+.contact-section{
+    margin: 0px 0px 50px;
+}
+.contact-section h5{
+     font-family: Roboto, sans-serif;
+font-size: 17px;
+font-weight: 700;
+line-height: 20.4px;
+color: rgb(66, 63, 141);
+}
+.contact-section a{
+    text-decoration: none;
+    font-family: Roboto, sans-serif;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+color: rgb(255, 87, 0);
+}
+.contact-section p{
+    margin: 0px 0px 15px;
+}
+.footer-end p{
+    font-family: Roboto, sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+color: rgb(121, 119, 162);
+}
+.footer-end span{
+    color: orangered !important;
+    font-size: 15px;
+}
+.footer-end a{
+    color: orangered;
+}

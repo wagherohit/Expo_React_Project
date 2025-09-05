@@ -1,0 +1,255 @@
+.date{
+width:70px;
+height:75px;
+background-color: orangered;
+position: relative;
+bottom: 65px;
+left: 13px;
+border-radius: 10%;
+color: #fff !important;
+padding: 8px 15px;
+
+}
+.date:hover{
+    background-color: transparent;
+    color: orangered !important;
+}
+.date h3{
+    font-family: "Josefin Sans", sans-serif;
+font-size: 30px;
+font-weight: 600;
+line-height: 36px;
+/* color: rgb(255, 255, 255); */
+}
+.date span{
+    font-family: Roboto, sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 25.2px;
+
+}
+
+.blog h2{
+    font-family: "Josefin Sans", sans-serif;
+font-size: 24px;
+font-weight: 600;
+line-height: 28.8px;
+color: rgb(45, 45, 45);
+margin: 0px 0px 8px;
+}
+
+.blog h2:hover{
+    color: #f15a29;
+}
+.blog p{
+    font-family: Roboto, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+color: rgb(121, 119, 162);
+margin: 0px 0px 30px;
+}
+.blog-icon span{
+    list-style: none;
+    font-family: Roboto, sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+color: #999999;
+
+
+}
+.blog-section{
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+    padding: 30px;
+}
+
+
+
+/* ************************************************** */
+
+.search-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  background-color: #FBF9FF;
+  /* justify-content: center; */
+}
+
+.search-box {
+  display: flex;
+  width: 100%;
+}
+
+.search-box input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ddd;
+  outline: none;
+  font-size: 14px;
+}
+
+.icon-btn {
+  background: #f15a29;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+}
+
+.search-btn {
+  margin-top: 15px;
+  width: 100%;
+  background: linear-gradient(90deg, #f15a29, #ff7733);
+  border: none;
+  padding: 12px;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+
+  font-family: "Josefin Sans", sans-serif;
+font-size: 13px;
+font-weight: 400;
+line-height: 16px;
+color: rgb(255, 242, 236);
+}
+
+.blog-card{
+    margin: 0px 0px 30px;
+    padding: 30px;
+    background-color: #FBF9FF;
+}
+.blog-card li{
+    list-style: none;
+}
+
+.blog-card h4{
+    margin: 0px 0px 40px;
+    font-family: "Josefin Sans", sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+color: rgb(45, 45, 45);
+}
+
+.blog-card p{
+    font-family: Roboto, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+color: rgb(121, 119, 162);
+}
+.blog-card li{
+    padding: 0px 0px 12px;
+    margin: 10px;
+    border-bottom: 1px solid #B0AFC8;
+}
+.blog-card p:hover{
+    color: #ff7733;
+}
+.post{
+    margin: 0px 0px 30px;
+    padding: 30px;
+    background-color: #FBF9FF;
+}
+.post h3{
+    font-family: "Josefin Sans", sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+color: rgb(45, 45, 45);
+
+
+}
+.media h3{
+    font-family: "Josefin Sans", sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+color: rgb(45, 45, 45);
+}
+.media h3:hover{
+    color: #f15a29;
+}
+.media p{
+    font-family: Roboto, sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+color: rgb(121, 119, 162);
+}
+.post-tag span{
+    font-family: Roboto, sans-serif;
+font-size: 13px;
+font-weight: 400;
+line-height: 19.5px;
+color: rgb(136, 136, 136);
+margin: 0px 3px 8px 0px;
+padding: 4px 20px;
+border: 1px solid black;
+
+
+}
+.post-tag span:hover{
+    background-color: #f15a29;
+    color: #fff;
+    border: none;
+}
+
+
+.Seems p{
+    font-family: Roboto, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+color: rgb(121, 119, 162);
+}
+
+.Seems h4{
+    font-family: "Josefin Sans", sans-serif;
+font-size: 18px;
+font-weight: 500;
+line-height: 25px;
+color: rgb(45, 45, 45);
+}
+
+.Shadow h4{
+    font-family: "Josefin Sans", sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.2px;
+color: rgb(66, 63, 141);
+}
+
+.Shadow p{
+    font-family: Roboto, sans-serif;
+font-size: 15px;
+font-weight: 400;
+line-height: 21px;
+color: rgb(121, 119, 162);
+}
+.Shadow{
+    margin: 50px 0px 0px;
+    padding: 40px 30px;
+    background-color: #FBF9FF;
+}
+
+.s h4{
+      font-family: "Josefin Sans", sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.2px;
+color: rgb(66, 63, 141);
+
+}
+.s p{
+        font-family: Roboto, sans-serif;
+font-size: 15px;
+font-weight: 400;
+line-height: 21px;
+color: rgb(121, 119, 162);
+}
