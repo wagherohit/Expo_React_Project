@@ -23,7 +23,7 @@ const Home = () => {
         </div>
         <div className='col-md-6 col-12 mt-5'>
           <div>
-            <img className='' src="hero-img.png.webp" width={850} alt="" />
+            <img className='img-fluid' src="hero-img.png.webp" width={850} alt="" />
           </div>
         </div>
       </div>
